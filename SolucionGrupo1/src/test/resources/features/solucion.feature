@@ -6,6 +6,6 @@ Feature: Equipo1
 
     Given que el equipo desea ingresar a la pagina web
     When realizamos cada una de las pruebas requeridas
-      | entrada detexto | contrasena | tarea    |
+      | entrada_detexto | contrasena | tarea    |
       | soilucion       | solucion   | solucion |
     Then todo debería ser exitoso
